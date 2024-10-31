@@ -1,0 +1,921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickdashboard\n"
+"POT-Creation-Date: 2022-01-26 17:52+0100\n"
+"PO-Revision-Date: 2022-01-26 17:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: UKischkel\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/html.php:12
+msgid "Select to set or edit"
+msgstr "Wählen zum speichern oder editieren"
+
+#: admin/html.php:13
+msgid "Modules"
+msgstr "Module"
+
+#: admin/html.php:16
+msgid "Design module buttons"
+msgstr "Designen der Modulschaltflächen"
+
+#: admin/html.php:16
+msgid "Design"
+msgstr "Design"
+
+#: admin/html.php:19
+msgid "Info about the PRO version"
+msgstr "Informationen über die PRO-Version"
+
+#: admin/html.php:20
+msgid "PROVERSION"
+msgstr "PROVERSION"
+
+#: admin/html/info.html.php:4
+msgid "Advantage of pro-version"
+msgstr "Vorteil der Pro-Version"
+
+#: admin/html/info.html.php:6
+msgid "With Quickdashboard Pro you can assign modules to different user."
+msgstr ""
+"Mit Quickdashboard Pro können Sie Module verschiedenen Benutzern zuweisen."
+
+#: admin/html/info.html.php:8
+msgid "Therefor every user gets a custom dashboard regarding his tasks."
+msgstr ""
+"So erhält jeder Benutzer ein individuelles Dashboard für seine Aufgaben."
+
+#: admin/html/info.html.php:10
+msgid "To work faster you can copy Settings from one to another user."
+msgstr ""
+"Um schneller zu arbeiten, können Sie die Einstellungen von einem Benutzer zu "
+"einem anderen kopieren."
+
+#: admin/html/info.html.php:12
+msgid "With Quickdashboard Pro you are able to design your custom Dashboard."
+msgstr "Mit Quickdashboard Pro können Sie Ihr eigenes Dashboard gestalten."
+
+#: admin/html/info.html.php:16
+msgid "You can rename the Buttons."
+msgstr "Sie können die Schaltflächen umbenennen."
+
+#: admin/html/info.html.php:18
+msgid "You can change the order of the buttons."
+msgstr "Sie können die Reihenfolge der Schaltflächen ändern."
+
+#: admin/html/info.html.php:20
+msgid ""
+"The integrated button designer allows you to set width, height, "
+"backgroundcolor, fontcolor, fontstyle, font-size, button gap, border-radius "
+"and -style."
+msgstr ""
+"Mit dem integrierten Button-Designer können Sie Breite, Höhe, "
+"Hintergrundfarbe, Schriftfarbe, Schriftart, Schriftgröße, Button-Abstand, "
+"Rand-Radius und -Style einstellen."
+
+#: admin/html/info.html.php:22
+msgid "External fonts can be integrated."
+msgstr "Externe Schriftarten können integriert werden."
+
+#: admin/html/info.html.php:24
+msgid "You can also specify the background color or set a background image."
+msgstr ""
+"Sie können auch die Hintergrundfarbe angeben oder ein Hintergrundbild "
+"festlegen."
+
+#: admin/html/info.html.php:28
+msgid "You are able to add an logo to Quickdashboard Pro."
+msgstr "Sie können ein Logo zu Quickdashboard Pro hinzufügen."
+
+#: admin/html/info.html.php:34
+msgid "Visit our Plugin page at"
+msgstr "Besuchen Sie unsere Plugin-Seite unter"
+
+#: admin/html/info.html.php:36
+msgid "for more Information and pricing."
+msgstr "für weitere Informationen und Preise."
+
+#: admin/html/user.html.php:7
+msgid ""
+"Choose a new WordPress user for whom you want to provide the Quickdashboard."
+msgstr ""
+"Wählen Sie einen WordPress-Benutzer aus, für den die Einstellungen gelten "
+"sollen."
+
+#: admin/html/user.html.php:7
+msgid "New"
+msgstr "Neu"
+
+#: admin/html/user.html.php:8 admin/html/user.html.php:60
+msgid "Remove, modify or delete assigned WordPress modules for a user."
+msgstr "Entfernen, ändern oder löschen von Einstellungen für einen Nutzer."
+
+#: admin/html/user.html.php:8
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/html/user.html.php:9
+msgid "Duplicate a configuration from one configured user to another."
+msgstr "Duplizieren Sie eine Konfiguration auf einen anderen WordPress Nutzer."
+
+#: admin/html/user.html.php:9
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: admin/html/user.html.php:18
+msgid ""
+"Choose a WordPress user for whom you want to provide the Quickdashboard."
+msgstr ""
+"Wählen Sie einen WordPress-Benutzer aus, für den die Einstellungen gelten "
+"sollen."
+
+#: admin/html/user.html.php:22 admin/html/user.html.php:64
+msgid "Do you need help with this"
+msgstr "Benötigen Sie Hilfe dabei"
+
+#: admin/html/user.html.php:25 admin/html/user.html.php:67
+msgid ""
+"To remove or add individual modules simply check or uncheck the checkboxes "
+"in the admin menu"
+msgstr ""
+"Um einzelne Module zu entfernen oder hinzuzufügen, aktivieren oder "
+"deaktivieren Sie einfach die entsprechenden Kontrollkästchen im Adminmenü"
+
+#: admin/html/user.html.php:26
+msgid "There are a few limitations"
+msgstr "Es gibt ein paar Einschränkungen"
+
+#: admin/html/user.html.php:27
+msgid "You cannot select the superadmin and yourself"
+msgstr "Sie können nicht den Superadmin und sich selbst auswählen"
+
+#: admin/html/user.html.php:28
+msgid "(Yourself would immediately be locked out of this page)"
+msgstr "(Sie würden sofort von dieser Seite ausgesperrt werden)"
+
+#: admin/html/user.html.php:29
+msgid "This setting page cannot be assigned"
+msgstr "Diese Einstellungsseite kann nicht zugewiesen werden"
+
+#: admin/html/user.html.php:32
+msgid "Notice"
+msgstr "Hinweis"
+
+#: admin/html/user.html.php:33
+msgid "Give the user to whom you assign modules the role Administrator"
+msgstr ""
+"Geben Sie dem Benutzer, dem Sie Module zuweisen, die Rolle Administrator"
+
+#: admin/html/user.html.php:34
+msgid "The rights to work with the WP modules are organised by Quickdashboard"
+msgstr ""
+"Die Rechte für die Arbeit mit den WP-Modulen werden von Quickdashboard "
+"organisiert"
+
+#: admin/html/user.html.php:43 admin/html/user.html.php:76
+msgid "Please choose a user..."
+msgstr "Bitte einen Nutzer auswählen..."
+
+#: admin/html/user.html.php:49
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/html/user.html.php:52 admin/html/user.html.php:87
+msgid "Abort"
+msgstr "Abbrechen"
+
+#: admin/html/user.html.php:68
+msgid "To delete all assigned modules simply use the Delete button "
+msgstr ""
+"Um alle zugewiesenen Module zu löschen, verwenden Sie einfach die "
+"Schaltfläche Löschen"
+
+#: admin/html/user.html.php:81
+msgid "Remove usersettings"
+msgstr "Einstellungen entfernen"
+
+#: admin/html/user.html.php:84
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: admin/settings.php:13
+msgid "Copy"
+msgstr "Kopiere"
+
+#: admin/settings.php:14
+msgid "to"
+msgstr "nach"
+
+#: admin/settings.php:15
+msgid "Please select a user first!"
+msgstr "Bitte erst einen Nutzer auswählen!"
+
+#: admin/settings.php:16
+msgid "Drag and drop to sort"
+msgstr "Ziehen zum sortieren"
+
+#: admin/settings.php:188
+msgid "This user got settings"
+msgstr "Dieser Benutzer hat bereits Einstellungen"
+
+#: dashicon.php:2
+msgid "please select"
+msgstr "bitte auswählen"
+
+#: quick-back.php:40
+msgid "New comments"
+msgstr "Kommentare"
+
+#: quickdashboard.php:14
+msgid "Quickdashboard enables a custom wp-admin dashboard for certain users."
+msgstr ""
+"Quickdashboard ermöglicht ein benutzerdefiniertes wp-admin-Dashboard für "
+"bestimmte Benutzer."
+
+#: quickdashboard.php:15
+msgid ""
+"Quickdashboard enables a custom dashboard. User will get a special dashboard "
+"when accessing the wp-admin area. From there they only can access the "
+"setting pages which are allowed. These rules are configured by an admin."
+msgstr ""
+"Quickdashboard ermöglicht ein benutzerdefiniertes Dashboard. Der Benutzer "
+"erhält ein spezielles Dashboard, wenn er auf den wp-admin-Bereich zugreift. "
+"Von dort aus können sie nur auf die erlaubten Einstellseiten zugreifen. "
+"Diese Regeln werden von einem Administrator konfiguriert."
+
+#: quickdashboard.php:219
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: quickdashboard.php:273
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" benötigt \"%2$s\" Version %3$s oder neuer."
+
+#: quickdashboard.php:274
+msgid "Quickdashboard"
+msgstr "Quickdashboard"
+
+#: quickdashboard.php:275
+msgid "PHP"
+msgstr "PHP"
+
+#: quickdashboard.php:310
+msgid "You are not allowed to visit this page!"
+msgstr "Sie dürfen diese Seite nicht aufrufen!"
+
+#~ msgid "Here you find settings and help for installed Qanva tools"
+#~ msgstr "Hier finden Sie Einstellungen und Hilfe für Qanva Produkte"
+
+#~ msgid "Close and save"
+#~ msgstr "Schliessen und speichern"
+
+#~ msgid "Rename and close."
+#~ msgstr "Umbenennen und schliessen."
+
+#~ msgid "BACKGROUND"
+#~ msgstr "HINTERGRUND"
+
+#~ msgid "LOGO"
+#~ msgstr "LOGO"
+
+#~ msgid "BUTTON"
+#~ msgstr "Button"
+
+#~ msgid ""
+#~ "Choose a background-image or background-color for the Quickdashboard."
+#~ msgstr ""
+#~ "Wählen Sie ein Hintergrundbild oder eine Hintergrundfarbe für das "
+#~ "Quickdashboard aus."
+
+#~ msgid "Quickdashboard background color"
+#~ msgstr "Quickdashboard Hintergrund"
+
+#~ msgid "Quickdashboard background-image"
+#~ msgstr "Quickdashboard Hintergrundbild"
+
+#~ msgid "Click to choose image"
+#~ msgstr "Zur Bildauswahl klicken"
+
+#~ msgid "Remove image"
+#~ msgstr "Bild entfernen"
+
+#~ msgid "Choose a logo-image for the Quickdashboard."
+#~ msgstr "Zur Bildauswahl klicken."
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "max. 350px width"
+#~ msgstr "max. 350px breit"
+
+#~ msgid "Remove logo"
+#~ msgstr "Logo entfernen"
+
+#~ msgid "Max. width"
+#~ msgstr "Max. Breite"
+
+#~ msgid "in px"
+#~ msgstr "in px"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "left"
+#~ msgstr "links"
+
+#~ msgid "middle"
+#~ msgstr "mitte"
+
+#~ msgid "right"
+#~ msgstr "rechts"
+
+#~ msgid "Style the buttons for the Quickdashboard."
+#~ msgstr "Designen der Modulschaltflächen."
+
+#~ msgid "Width"
+#~ msgstr "Breite"
+
+#~ msgid "Hight"
+#~ msgstr "Höhe"
+
+#~ msgid "Gap"
+#~ msgstr "Abstand"
+
+#~ msgid "Shadow"
+#~ msgstr "Schatten"
+
+#~ msgid "no comma"
+#~ msgstr "kein Komma"
+
+#~ msgid "Border-radius"
+#~ msgstr "Rahmen-Radius"
+
+#~ msgid "Lock/ unlock"
+#~ msgstr "Alle/einzeln"
+
+#~ msgid "Border"
+#~ msgstr "Rahmen"
+
+#~ msgid "Background color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Font-size"
+#~ msgstr "Textgröße"
+
+#~ msgid "Font-color"
+#~ msgstr "Textfarbe"
+
+#~ msgid "Font-style"
+#~ msgstr "Textstil"
+
+#~ msgid "Save Design"
+#~ msgstr "Änderungen speichern"
+
+#~ msgid "Reset Design"
+#~ msgstr "Reset Design"
+
+#~ msgid "Attention"
+#~ msgstr "Achtung"
+
+#~ msgid "Are you sure to delete the design settings?"
+#~ msgstr "Sind Sie sicher, dass Sie die Design-Einstellungen löschen möchten?"
+
+#~ msgid "Cancel"
+#~ msgstr "Abbrechen"
+
+#~ msgid "example"
+#~ msgstr "Beispiel"
+
+#~ msgid "example "
+#~ msgstr "Beispiel "
+
+#~ msgid "second row"
+#~ msgstr "ZWEITE REIHE"
+
+#~ msgid "select from user"
+#~ msgstr "wähle von Nutzer"
+
+#~ msgid "select to new user"
+#~ msgstr "wähle nach Nutzer"
+
+#~ msgid "Copy & Save"
+#~ msgstr "Kopieren und speichern"
+
+#~ msgid "An overview of our tools"
+#~ msgstr "Eine Übersicht unserer Produkte"
+
+#~ msgid "Read more"
+#~ msgstr "Mehr Info"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Contact us"
+#~ msgstr "Kontaktiere uns"
+
+#~ msgid "Skype with us"
+#~ msgstr "Skype mit uns"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "Finde uns auf Facebook"
+
+#~ msgid "Support and bugs"
+#~ msgstr "Support und Fehler"
+
+#~ msgid "How to: Qanva tools settings"
+#~ msgstr "Wissen: Qanva Tools Einstellungen"
+
+#~ msgid "Bug reporting"
+#~ msgstr "Fehler berichten"
+
+#~ msgid "Clear"
+#~ msgstr "Löschen"
+
+#~ msgid "Clear color"
+#~ msgstr "Farbe löschen"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Select default color"
+#~ msgstr "Standard-Farbe wählen"
+
+#~ msgid "Select Color"
+#~ msgstr "Farbe wählen"
+
+#~ msgid "Color value"
+#~ msgstr "Farbwert"
+
+#~ msgid "Your Quickdashboard Pro license may be deactivated or expired!"
+#~ msgstr ""
+#~ "Ihre Quickdashboard Pro Lizenz wurde entweder deaktiviert oder ist "
+#~ "abgelaufen!"
+
+#~ msgid "Quickdashboard Pro"
+#~ msgstr "Quickdashboard Pro"
+
+#~ msgid "Activate license"
+#~ msgstr "Lizenz aktivieren"
+
+#~ msgid "Deactivate license"
+#~ msgstr "Lizenz deaktivieren"
+
+#~ msgid "License Management"
+#~ msgstr "Lizenz Management"
+
+#~ msgid "The following message came from the server"
+#~ msgstr "Die folgende Meldung kam vom Server"
+
+#~ msgid "Activation successful!"
+#~ msgstr "Aktivierung erfolgreich!"
+
+#~ msgid "Deactivation successful!"
+#~ msgstr "Deaktivierung erfolgreich!"
+
+#~ msgid "Please enter a license key."
+#~ msgstr "Bitte geben Sie einen Lizenzschlüssel ein."
+
+#~ msgid "License key"
+#~ msgstr "Lizenzschlüssel"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Your license expires on "
+#~ msgstr "Ihre Lizenz endet am "
+
+#~ msgid "Your license expired on "
+#~ msgstr "Ihr Lizenzschlüssel ist abgelaufen seit "
+
+#~ msgid "select"
+#~ msgstr "wählen"
+
+#~ msgid ""
+#~ "Before working with Quickdashboard Pro you need to have at leased one "
+#~ "additional user."
+#~ msgstr ""
+#~ "Bevor Sie mit Quickdashboard Pro arbeiten, müssen Sie einen zusätzlichen "
+#~ "Benutzer angelegt haben."
+
+#~ msgid ""
+#~ "Be aware: you can link a user to any module, but if the neccessary rights "
+#~ "are missing, the user can't access this module. So give this user the "
+#~ "appropriate role."
+#~ msgstr ""
+#~ "Beachten Sie: Sie können einen Benutzer mit einem beliebigen Modul "
+#~ "verknüpfen. Wenn jedoch die erforderlichen Rechte fehlen, kann der "
+#~ "Benutzer nicht auf dieses Modul zugreifen. Geben Sie diesem Benutzer die "
+#~ "entsprechende Rolle."
+
+#~ msgid "Here you choose the user to which your settings will apply."
+#~ msgstr ""
+#~ "Hier wählen Sie den Benutzer aus, auf den Ihre Einstellungen angewendet "
+#~ "werden sollen."
+
+#~ msgid "This will load the Quickdashboard Pro Menu into the WP-Menu."
+#~ msgstr "Dies lädt das Quickdashboard Pro Menü in das WP-Menü."
+
+#~ msgid ""
+#~ "There you can select the modules which will be addressed to the user you "
+#~ "have choosen."
+#~ msgstr ""
+#~ "Dort können Sie die Module auswählen, die dem von Ihnen ausgewählten "
+#~ "Benutzer zugeordnet werden."
+
+#~ msgid "The modules will be shown as buttons."
+#~ msgstr "Die Module werden als Schaltflächen angezeigt."
+
+#~ msgid ""
+#~ "After saving, you can repeat this for another user wih different settings."
+#~ msgstr ""
+#~ "Nach dem Speichern können Sie dies für einen anderen Benutzer mit anderen "
+#~ "Einstellungen wiederholen."
+
+#~ msgid ""
+#~ "You also can choose an saved user to edit or delete completly from "
+#~ "Quickdashboard Pro settings."
+#~ msgstr ""
+#~ "Sie können auch einen gespeicherten Benutzer auswählen, der bearbeitet "
+#~ "oder vollständig aus den Quickdashboard Pro-Einstellungen gelöscht werden "
+#~ "soll."
+
+#~ msgid ""
+#~ "After selecting an user to edit, saved modules will be shown as buttons."
+#~ msgstr ""
+#~ "Nachdem Sie einen zu bearbeitenden Benutzer ausgewählt haben, werden "
+#~ "gespeicherte Module als Schaltflächen angezeigt."
+
+#~ msgid "By drag and drop you are able to rearrange the buttons."
+#~ msgstr ""
+#~ "Mittels Drag & Drop können Sie die Reihenfolge der Schaltflächen ändern."
+
+#~ msgid "You may click onto the button text to edit it."
+#~ msgstr ""
+#~ "Sie können auf den Schaltflächen Text klicken um diese zu bearbeiten."
+
+#~ msgid "This ist our button designer."
+#~ msgstr "Dies ist unser Schaltflächen Designer."
+
+#~ msgid ""
+#~ "It allows you to change the appearance of the module-buttons, change the "
+#~ "page background, add a logo image which will be appear above the module "
+#~ "buttons or even add a background image. Also custom fonts for the buttons "
+#~ "are possible."
+#~ msgstr ""
+#~ "Sie können das Erscheinungsbild der Modulschaltflächen ändern, den "
+#~ "Seitenhintergrund ändern, ein Logo hinzufügen, das über den "
+#~ "Modulschaltflächen angezeigt wird, oder sogar ein Hintergrundbild "
+#~ "hinzufügen. Auch benutzerdefinierte Schriftarten für die Schaltflächen "
+#~ "sind möglich."
+
+#~ msgid "You can add a custom font by linking to an extern hoster."
+#~ msgstr ""
+#~ "Sie können eine benutzerdefinierte Schriftart hinzufügen, indem Sie eine "
+#~ "Verknüpfung zu einem externen Hoster herstellen."
+
+#~ msgid ""
+#~ "Example: choose your font from Google Fonts, then choose \"embed\", then "
+#~ "\"@import\"."
+#~ msgstr ""
+#~ "Beispiel: Wählen Sie Ihre Schriftart aus Google Fonts aus, wählen Sie "
+#~ "\"embed\" und dann \"@import\"."
+
+#~ msgid "You get this code snippet"
+#~ msgstr "Sie erhalten dieses Code-Snipsel"
+
+#~ msgid "You only need the part with the yellow background! No quotes!"
+#~ msgstr ""
+#~ "Sie brauchen nur den Teil mit dem gelben Hintergrund! Keine "
+#~ "Anführungszeichen!"
+
+#~ msgid "Copy and past it into the text field \"Font link\"."
+#~ msgstr "Kopieren Sie es und fügen Sie es in das Textfeld \"Font Link\" ein."
+
+#~ msgid ""
+#~ "The text field named \"Font name\" is just to save a name to it as "
+#~ "reminder when editing."
+#~ msgstr ""
+#~ "Das Textfeld mit dem Namen \"Font Name\" dient lediglich dazu, einen "
+#~ "Namen als Erinnerung beim Bearbeiten zu speichern."
+
+#~ msgid "Only one kind of style can be saved. It applys to all user."
+#~ msgstr ""
+#~ "Es kann nur eine Art von Style gespeichert werden. Es gilt für alle "
+#~ "Benutzer."
+
+#~ msgid ""
+#~ "Quickdashboard Pro has a function to stop calling not assigned modules by "
+#~ "manupulating the URL."
+#~ msgstr ""
+#~ "Quickdashboard Pro verhindert, Module, die nicht zugeordnet sind, durch "
+#~ "URL Manipulation aufzurufen."
+
+#~ msgid "Known issues"
+#~ msgstr "Bekannte Probleme"
+
+#~ msgid ""
+#~ "Some Plugins have own rights. Quickdashboard Pro still will create a link "
+#~ "in the custom Dashboard, but it might happen that the linked page will "
+#~ "not be loaded and an error will occur. Best practise is to check the "
+#~ "Quickdashboard with the user to whom the settings apply logged in."
+#~ msgstr ""
+#~ "Einige Plugins haben eigene Rechte. Quickdashboard Pro erstellt weiterhin "
+#~ "einen Link im benutzerdefinierten Dashboard. Es kann jedoch vorkommen, "
+#~ "dass die verknüpfte Seite nicht geladen wird und ein Fehler auftritt. Am "
+#~ "besten überprüfen Sie das Quickboard mit dem Benutzer, für den die "
+#~ "Einstellungen gelten."
+
+#~ msgid "This applys often to SEO plugins!"
+#~ msgstr "Meist tritt dies bei SEO Plugins auf!"
+
+#~ msgid ""
+#~ "If you need further help or have any other reason to contact us, we are "
+#~ "looking forward to hear from you."
+#~ msgstr ""
+#~ "Wenn Sie weitere Hilfe benötigen oder einen anderen Grund haben, uns zu "
+#~ "kontaktieren, freuen wir uns, von Ihnen zu hören."
+
+#~ msgid ""
+#~ "In case of trouble, please give us as many details as possible, maybe add "
+#~ "a screenshot for reference."
+#~ msgstr ""
+#~ "Im Falle von Problemen geben Sie uns bitte so viele Details wie möglich "
+#~ "und fügen Sie möglicherweise einen Screenshot als Referenz hinzu."
+
+#~ msgid "1.0.0 - Stable release version"
+#~ msgstr "1.0.0 - Stabile Release-Version"
+
+#~ msgid "Help"
+#~ msgstr "Hilfe"
+
+#~ msgid "Remove settings for this user or save changes."
+#~ msgstr ""
+#~ "Entfernen Sie die Einstellungen für diesen Benutzer oder speichern Sie "
+#~ "die Änderungen."
+
+#~ msgid "Copy settings."
+#~ msgstr "Kopieren der Einstellungen."
+
+#~ msgid "Logo image"
+#~ msgstr "Logo Bild"
+
+#~ msgid "Button width"
+#~ msgstr "Button Breite"
+
+#~ msgid "Button hight"
+#~ msgstr "Button Höhe"
+
+#~ msgid "Font"
+#~ msgstr "Schriftart"
+
+#~ msgid "Link to extern hosted font, like Google-Fonts"
+#~ msgstr "Link zu externem Hoster, wie z.B. Google-Fonts"
+
+#~ msgid "For more info look in our help section"
+#~ msgstr "Mehr Info finden Sie in der Hilfe"
+
+#~ msgid "Font link URL"
+#~ msgstr "Font Link URL"
+
+#~ msgid "Font name"
+#~ msgstr "Font Name"
+
+#~ msgid "in px, em, pt..."
+#~ msgstr "in px, em, pt..."
+
+#~ msgid "Button gap"
+#~ msgstr "Button Abstand"
+
+#~ msgid "Button shadow"
+#~ msgstr "Button Schatten"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Upload of files not allowed!"
+#~ msgstr "Hochladen von Dateien nicht erlaubt!"
+
+#~ msgid "Unexpected error."
+#~ msgstr "Unerwarteter Fehler."
+
+#~ msgid "The license key on this domain is already inactive"
+#~ msgstr "Der Lizenzschlüssel für diese Domain ist bereits inaktiv"
+
+#~ msgid "success"
+#~ msgstr "Erfolgreich"
+
+#~ msgid "requires to be registered. Please enter your key"
+#~ msgstr "muss registriert werden. Bitte geben Sie Ihren Key"
+
+#~ msgid "HERE"
+#~ msgstr "HIER ein"
+
+#~ msgid "Your License has expired. Please add a new key"
+#~ msgstr ""
+#~ "Ihre Lizenz ist abgelaufen. Bitte geben Sie einen neuen Lizenzschlüssel"
+
+#~ msgid "License key activated"
+#~ msgstr "Lizenzschlüssel aktiviert"
+
+#~ msgid "Your License key is blocked"
+#~ msgstr "Lizenzschlüssel blockiert"
+
+#~ msgid "Your License key has expired"
+#~ msgstr "Ihr Lizenzschlüssel ist abgelaufen"
+
+#~ msgid "License key already in use on"
+#~ msgstr "Lizenzschlüssel wird bereits genutzt"
+
+#~ msgid "Reached maximum activation. License key already in use on"
+#~ msgstr ""
+#~ "Maximale Aktivierung erreicht. Der Lizenzschlüssel wird bereits genutzt"
+
+#~ msgid "Reached maximum allowable domains"
+#~ msgstr "Maximale erlaubte Domains erreicht"
+
+#~ msgid "Invalid license key"
+#~ msgstr "Ungültiger Lizenzschlüssel"
+
+#~ msgid "New user"
+#~ msgstr "Neuer Benutzer"
+
+#~ msgid "Copy usersettings"
+#~ msgstr "Kopieren von Benutzereinstellungen"
+
+#~ msgid "Choose user to copy settings:"
+#~ msgstr "Wählen Sie einen Benutzer aus, um die Einstellungen zu kopieren:"
+
+#~ msgid "We reccommend to delete saved options first before saving new ones."
+#~ msgstr ""
+#~ "Wir empfehlen, gespeicherte Optionen zuerst zu löschen, bevor neue "
+#~ "gespeichert werden."
+
+#~ msgid ""
+#~ "Here you can add a logo image which will be appear above the module "
+#~ "buttons."
+#~ msgstr ""
+#~ "Hier können Sie ein Logo-Bild hinzufügen, das über den Modulschaltflächen "
+#~ "angezeigt wird."
+
+#~ msgid "Plugins"
+#~ msgstr "Plugins"
+
+#~ msgid "Updates"
+#~ msgstr "Updates"
+
+#~ msgid "Welcome"
+#~ msgstr "Willkommen"
+
+#~ msgid "Choose modules"
+#~ msgstr "Module wählen"
+
+#~ msgid "Welcome to Quickboard Pro"
+#~ msgstr "Willkommen zu Quickboard Pro"
+
+#~ msgid ""
+#~ "We tried to make your work experience with our tool as easy as possible."
+#~ msgstr ""
+#~ "Wir haben versucht, Ihre Arbeitserfahrung mit unserem Tool so einfach wie "
+#~ "möglich zu gestalten."
+
+#~ msgid ""
+#~ "Just follow the options in order, but best read our workflow and help "
+#~ "which you will find at this menu point"
+#~ msgstr ""
+#~ "Befolgen Sie einfach die Optionen in der angegebenen Reihenfolge, aber "
+#~ "lesen Sie am besten unseren Workflow und die Hilfe, die Sie unter diesem "
+#~ "Menüpunkt finden"
+
+#~ msgid "Choose modules from our menu, rename, rearrange and save."
+#~ msgstr "Module auswählen, umbenennen, sortieren und abspeichern."
+
+#~ msgid " - File editing not available!"
+#~ msgstr " - Dateibearbeitung nicht verfügbar!"
+
+#~ msgid "Dashboard to Quickboard"
+#~ msgstr "Dashboard to Quickboard"
+
+#~ msgid "Add a logo"
+#~ msgstr "Logo hinzufügen"
+
+#~ msgid "Button text converting:"
+#~ msgstr "Button Text formatieren:"
+
+#~ msgid "none"
+#~ msgstr "nichts gewählt"
+
+#~ msgid "First letter uppercase"
+#~ msgstr "Erster Buchstabe Groß"
+
+#~ msgid "All letters uppercase"
+#~ msgstr "Alle Buchstaben GROSS"
+
+#~ msgid "All letters lowercase"
+#~ msgstr "Alle Buchstaben klein"
+
+#~ msgid "max. Buttons in row"
+#~ msgstr "Max. Schaltflächen in Reihe"
+
+#~ msgid "Standard auto-fit"
+#~ msgstr "Standard-Auto-Fit"
+
+#~ msgid "Delete"
+#~ msgstr "Löschen"
+
+#~ msgid "Dashboard to Quickboard adds a new role named \"Quickbord\"."
+#~ msgstr ""
+#~ "Dashboard to Quickboard legt eine neue Benutzerrolle \"Quickboard\" an."
+
+#~ msgid "The following rules are directed to the role \"Quickbord\":"
+#~ msgstr ""
+#~ "Folgende Befugnisse nach Wordpress werden der Rolle \"Quickbord\" "
+#~ "zugeordnet:"
+
+#~ msgid ""
+#~ "Under the tab \"Choose from menu\" you choose from the main navigation "
+#~ "and, if applies, from the subnavigation which options should be "
+#~ "accessible for the role \"Quickbord\"."
+#~ msgstr ""
+#~ "Unter der Registerkarte \"Menü wählen\" wählen Sie aus der "
+#~ "Hauptnavigation und, falls zutreffend, aus der Unternavigation, die "
+#~ "Optionen aus, die für die Rolle \"Quickbord\" zugänglich sein soll."
+
+#~ msgid ""
+#~ "In the submenu navigation you can set your own names for the buttons on "
+#~ "the Quickboard."
+#~ msgstr ""
+#~ "In der Untermenünavigation können Sie eigene Namen für die Schaltflächen "
+#~ "auf dem Quickboard festlegen."
+
+#~ msgid "Notice: "
+#~ msgstr "Hinweis:"
+
+#~ msgid "Not all options under the main navigation have a submenu!"
+#~ msgstr "Nicht alle Optionen unter der Hauptnavigation haben ein Untermenü!"
+
+#~ msgid ""
+#~ "If you, after saving, want to add more buttons, click twice slowly on the "
+#~ "main navigation option. This reloads all navigation points in the "
+#~ "subnavigation and can then be activated."
+#~ msgstr ""
+#~ "Wenn Sie nach dem Speichern weitere Schaltflächen hinzufügen möchten, "
+#~ "klicken Sie zweimal langsam auf die Hauptnavigationsoption. Dadurch "
+#~ "werden alle Navigationspunkte in der Unternavigation neu geladen und "
+#~ "können dann aktiviert werden."
+
+#~ msgid ""
+#~ "Under the tab \"Button Design\" you can set how the Buttons should look."
+#~ msgstr ""
+#~ "Unter \"Button Design\" stellen Sie ein, wie die Schaltflächen aussehen "
+#~ "sollen."
+
+#~ msgid ""
+#~ "Under the tab \"Logo\" you can upload a logo. Max. width: 250px, max. "
+#~ "height: 100px."
+#~ msgstr ""
+#~ "Unter \"Logo\" können Sie ein Logo hochladen. Maximale Breite: 250px, "
+#~ "max. Höhe: 100px."
+
+#~ msgid "Quickboard"
+#~ msgstr "Quickboard"
+
+#~ msgid "MOVE ME"
+#~ msgstr "Zieh mich"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Help/ Workflow"
+#~ msgstr "Hilfe / Workflow"
+
+#~ msgid "Main navigation"
+#~ msgstr "Hauptnavigation"
+
+#~ msgid "Sub navigation and renaming"
+#~ msgstr "Subnavigation und eigener Name"
+
+#~ msgid "Personal"
+#~ msgstr "Personal"
+
+#~ msgid "EXAMPLE"
+#~ msgstr "Beispiel"
+
+#~ msgid "SECOND ROW"
+#~ msgstr "ZWEITE REIHE"
+
+#, fuzzy
+#~| msgid "The license key on this domain is already inactive"
+#~ msgid "The license key on this domain is already inactived"
+#~ msgstr "Der Lizenzschlüssel für diese Domain ist bereits inaktiv"

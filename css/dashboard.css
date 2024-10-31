@@ -1,0 +1,144 @@
+#adminmenumain, .update-nag,.fs-notice,.fs-notice label,.fs-notice-body, .notice:not( .quickalert ){
+	display:none !important;
+	border:0 !important;
+	padding:0 !important;
+	box-shadow:none !important;
+}
+.folded #wpcontent, #wpcontent{
+	margin-left:0;
+	padding:0;
+}
+ a,  a:active, a:focus{
+	 color:black;
+	 text-decoration:none;
+	 outline:none !important;
+	 box-shadow:none;
+ }
+#wpadminbar{
+	background: rgba(0,0,0,0.5);
+	-webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+#wpadminbar  #wp-admin-bar-my-account a, #wpadminbar a.ab-item{
+	color:white;
+	background: none;
+}
+#wpadminbar .ab-top-menu>li.hover>.ab-item, #wpadminbar.nojq .quicklinks .ab-top-menu>li>.ab-item:focus, #wpadminbar:not(.mobile) .ab-top-menu>li:hover>.ab-item, #wpadminbar:not(.mobile) .ab-top-menu>li>.ab-item:focus {
+	color:white;
+	background: none;	
+}
+/* hide all admin-bar links incl. custom by other plugins */
+li[id^=wp-admin-bar]:not( [id=wp-admin-bar-wtf-quick-custom-link] ):not( [id=wp-admin-bar-my-account] ):not( [id=wp-admin-bar-logout] ):not( .quickalert ):not(#wp-admin-bar-edit-profile):not(#wp-admin-bar-qick-dashboard):not([id*=WPML_ALS]){
+    display:none;
+}
+/** Link in Admin-Bar **/
+#wp-admin-bar-wtf-quick-custom-link img{
+	padding:0 !important;
+	width:24px;
+	height:24px;
+	float:left;
+	margin:3px 3px 0 0;
+}
+#wpbody-content{
+	padding:10px 20px 20px 20px;
+	width:calc(100% - 40px);
+}
+.wtf-cdash-wrapper a{
+	text-decoration:none;
+	color:#0735af;
+}
+.wtf-cdash-container{
+	width:300px;
+	height:200px;
+	background:#FFF;
+	border-radius:10px;
+	box-shadow:4px 4px 3px #dfdfdf; 
+	display:table-cell;
+	text-align:center;
+	vertical-align:middle;
+}
+#wpadminbar  #wp-admin-bar-my-account .ab-sub-wrapper {
+	border-radius:10px 0 0 10px;
+	background: #32373c;
+	max-width:100px;
+}
+#wpadminbar #wp-admin-bar-my-account.with-avatar #wp-admin-bar-user-actions>li {
+	margin-left:0;
+}
+#wpadminbar  #wp-admin-bar-my-account .ab-sub-wrapper .ab-item{
+	color:white;
+	background: #32373c;
+}
+#wpadminbar #wp-admin-bar-user-info .display-name{
+	color:white;
+}
+/**  Profile Seite **/
+#profile-page .form-table, #profile-page .user-url-wrap, #profile-page h2{
+	display:none;
+}
+
+ #profile-page .form-table:nth-child(7), 
+ #profile-page .form-table:nth-child(9), 
+ #profile-page .form-table:nth-child(13){
+	display:block;
+}
+
+.quicktaskbar{
+	width: 96%;
+	margin:0 2%;
+	height:32px;
+	position:fixed;
+	bottom:-37px;
+	z-index:999999;
+	padding:9px 7px 5px 7px;
+	border-radius: 10px 10px 0 0;
+    transition:bottom .5s ease-in-out;
+}
+.quicktaskbar:hover{
+    bottom:0;
+    transition:bottom .5s ease-in-out;
+}
+.quicktaskbar a span{
+	font-size: 24px;
+    border-radius: 50%;
+    width: 35px;
+    height: 24px;
+    padding: 5px 0;
+	margin: 0 10px 0 0;
+	transition: background .3s;
+}
+.quicktaskbar a span:hover{
+	transition: background .3s;
+}
+.quicktaskinfo{
+    position: fixed;
+    display: none;
+  text-align: center;
+  border-radius: 6px;
+  min-width:140px;
+  padding:3px 10px;
+  z-index:99999;
+}
+.quicktaskinfo:after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -70px;
+  width: 0; height: 0;
+  border-top: 10px solid #d3d3d3;
+  border-right: 7px solid transparent;
+  border-left: 7px solid transparent;
+}
+.wrap {
+	margin: 20px 10px 0 2px;
+}
+#wpwrap {
+	height:calc(100% + 32px) !important;
+  top: -32px;
+	overflow:auto;
+}
+#wpbody-content {
+    padding: 32px 20px 20px 20px;
+    width: calc(100% - 40px);
+}

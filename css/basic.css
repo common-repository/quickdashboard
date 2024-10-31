@@ -1,0 +1,129 @@
+/** CSS for overview page **/
+html, body{
+    height:100%;
+    background:rgb(241, 241, 241);
+}
+#adminmenu .wp-menu-image img[src*=qanva]{
+    padding: 7px 0 0 0;
+    opacity:1;
+    width:22px;
+}
+#adminmenu #toplevel_page_qanva .wp-submenu li a:not([href="admin.php?page=qanva"]):not([href="admin.php?page=qanvasetting"]):not([href*="/"]){
+    display:none;
+}
+.qanva .logo{
+    width:120px;
+    margin:20px 10px 0 0;
+    float:left;
+    filter: brightness( 40% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+}
+.qanva .logo:hover{
+ filter:none;
+}
+.qanva .qanvahead{
+ height:40px;
+}
+.qanva .qanvahead h1{
+padding-top:10px
+}
+.qanva .promo{
+ text-align:center;
+}
+.qanva a span, .qanva a:hover span{
+    text-decoration:none;
+}
+.qanva a:focus{
+    outline:none;
+    box-shadow:none;
+}
+.qanva .qanvagrid{
+ display: flex;
+grid-gap: 20px;
+flex-wrap:wrap;
+width: calc(100% - 280px);
+}
+.qanvatoolwrapper{
+    height:275px;
+    max-height:275px;
+    max-width:175px;
+    min-width:175px;
+    background: white;
+padding: 10px;
+}
+.qanvatoolhead{
+    height:60px;
+    max-height:60px;
+    text-align:center;
+}
+.qanvatoolinfo{
+    height:135px;
+    max-height:135px; 
+    text-align:center;
+}
+.qanvatoollink{
+    height:40px;
+    max-height:40px;
+    text-align:center;
+}   
+.qanvatoollink a{    
+    line-height:normal;
+    text-decoration:none;
+    color:black;
+    border:1px solid #ccc;
+    padding:10px 15px;
+    box-shadow:none;
+}
+.qanvatoollink a:hover{
+color:black;
+text-decoration:none;
+} 
+.qanva .qanvainfowrapper{
+ display:grid;
+ max-width: 250px;
+    height:295px;
+    max-height:295px;
+ margin:0 20px;
+position: fixed;
+top: 121px;
+right: 0;
+}
+.qanva .qanvainfogrid{
+ max-width: 250px;
+background: white;
+padding: 10px;
+display: grid;
+grid-gap: 5px;
+}
+.qanva .qanvainfogrid a{
+    text-decoration:none;
+    box-shadow:none;
+}
+.qanva .qanvainfogrid a:hover{
+    text-decoration:none;
+}
+.qanva .knowbreak{
+ width:calc(100% - 34px);
+float: right;
+}
+.qanva .dashicons{
+ margin-right:10px
+}
+.qanva .qanvalinkwrap{
+ background:white;
+ padding:10px 10px 0 10px;
+ margin:0 20px 0 0;
+}
+.qanva .qanvabutton{
+ border:0;
+ padding:5px 10px;
+ background:#2271b1;
+ color:white;
+ min-width:450px;
+ cursor:pointer;
+ margin:0 0 10px 0;
+ font-size:1.2em;
+}
+.qanva .qanvabutton .dashicons{
+margin:0 0 0 10px;
+float:right;
+}

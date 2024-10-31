@@ -1,0 +1,24 @@
+#wpwrap, #quickpreview{overflow-x: hidden;}  
+#quickvorschauedit{background:none;} 
+.quickvorschau, #quickvorschauedit, .wtf-cdash-wrapper{
+ grid-template-columns:repeat( auto-fit, minmax( 200px, 200px) );
+ grid-gap:5px;
+}	
+.qlinkwrap{
+height:100px;
+width:200px;
+display:table;
+background-color: #ffffff;
+border:0;
+border-radius: 8px 8px 8px 8px;
+box-shadow: 3px 3px 3px #dddddd;
+line-height:normal;
+}
+.quickvorschau a, .about-wrap .wtf-cdash-wrapper a, #quickvorschauedit a{
+display:table-cell;
+vertical-align:middle;
+color:#000000;
+font-weight:normal;
+font-size:15px;
+}
+.about-wrap{width:100%;max-width:100%;}
